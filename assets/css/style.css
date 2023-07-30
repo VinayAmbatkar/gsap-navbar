@@ -250,17 +250,6 @@ nav.hidden {
   cursor: pointer;
 }
 
-/* ========================== HERO SECTION =========================== */
-#home .container {
-  z-index: 1;
-  position: relative;
-}
-
-#home {
-  position: relative;
-  overflow: hidden;
-}
-
 /* ========================== MEDIA QUERY =========================== */
 
 @media (max-width: 768px) {
